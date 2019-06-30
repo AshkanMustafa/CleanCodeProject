@@ -1,8 +1,8 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../Domashno3/Player.cpp"
-#include "../Domashno3/Entity.cpp"
-#include "../Domashno3/Mob.cpp"
+#include "../Project/Player.cpp"
+#include "../Project/Entity.cpp"
+#include "../Project/Mob.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
