@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../Domashno3/Environment.cpp"
+#include "../Project/Environment.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
