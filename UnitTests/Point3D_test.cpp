@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../Domashno3/Point3D.cpp"
+#include "../Project/Point3D.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
