@@ -15,7 +15,7 @@ public:
 	const double getDistanceTo(const Point2D&) const;
 
 	virtual Point2D* clone() const; 
-	virtual bool isPoint2D() const; // always returns true because element is pointer to Point2D
+	virtual bool isPoint2D() const; // always returns true because element is a pointer to Point2D
 
 protected:
 	double x;
